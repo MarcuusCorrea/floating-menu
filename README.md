@@ -2,6 +2,9 @@
 
 This is a simple web application that demonstrates a floating menu with animated menu items. When the main floating button is clicked, additional menu items are displayed with a sliding animation. The application is built using HTML, CSS, and JavaScript.
 
+![image](https://github.com/MarcuusCorrea/floating-menu/assets/96303668/c18a5436-b6d1-4b2b-ab6c-add744ca4c89)
+
+
 ## Table of Contents
 
 - [Installation](#installation)
